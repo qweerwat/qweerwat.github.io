@@ -1,0 +1,569 @@
+{
+  "vaultName": "all",
+  "lastExport": 1734518105547,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "eng/archive/hws/1.md",
+    "eng/archive/hws/3 photos.md",
+    "eng/archive/hws/23.04.md",
+    "eng/archive/hws/28.04.md",
+    "eng/archive/hws/30.md",
+    "eng/archive/hws/cause and effect.md",
+    "eng/archive/hws/hw 7.04.md",
+    "eng/archive/hws/hw 14.04.md",
+    "eng/archive/hws/hw 26.03.md",
+    "eng/archive/07.10.md",
+    "eng/archive/13.05.md",
+    "eng/archive/23.09.md",
+    "eng/archive/27.09.md",
+    "eng/archive/30.09.md",
+    "eng/archive/black and white.md",
+    "eng/archive/dune.md",
+    "eng/archive/job application wb p37.md",
+    "eng/archive/sassoon's poem.md",
+    "eng/archive/speaking p58.md",
+    "eng/archive/vocab+grammar.md",
+    "eng/archive/writing job.md",
+    "eng/RGN/RGN 1-2.md",
+    "eng/RGN/RGN 3.md",
+    "eng/RGN/RGN 4.md",
+    "eng/RGN/RGN 5-6.md",
+    "eng/RGN/RGN 7-8.md",
+    "eng/RGN/RGN 9.md",
+    "eng/RGN/RGN 10.md",
+    "eng/RGN/RGN 11-12.md",
+    "eng/RGN/RGN 13.md",
+    "eng/RGN/voc 4-6.md",
+    "eng/RGN/voc 7-8.md",
+    "eng/15.11.md",
+    "eng/16.12.md",
+    "eng/18.11.md",
+    "eng/21.10.md",
+    "eng/media dependence prs.md",
+    "eng/missfont.log",
+    "eng/proposal writing.md",
+    "eng/RGN voc tables.md",
+    "eng/RGN voc tables.html",
+    "eng/translations 9–11.md",
+    "eng/vocab.docx",
+    "eng/vocab+grammar.tex",
+    "eng/wds.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "eng/archive/hws/1.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 3655,
+      "exportedPath": "eng/archive/hws/1.html",
+      "dependencies": []
+    },
+    "eng/archive/hws/3 photos.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 597,
+      "exportedPath": "eng/archive/hws/3-photos.html",
+      "dependencies": []
+    },
+    "eng/archive/hws/23.04.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 552,
+      "exportedPath": "eng/archive/hws/23.04.html",
+      "dependencies": []
+    },
+    "eng/archive/hws/28.04.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1678,
+      "exportedPath": "eng/archive/hws/28.04.html",
+      "dependencies": []
+    },
+    "eng/archive/hws/30.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 565,
+      "exportedPath": "eng/archive/hws/30.html",
+      "dependencies": []
+    },
+    "eng/archive/hws/cause and effect.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 2744,
+      "exportedPath": "eng/archive/hws/cause-and-effect.html",
+      "dependencies": []
+    },
+    "eng/archive/hws/hw 7.04.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 2496,
+      "exportedPath": "eng/archive/hws/hw-7.04.html",
+      "dependencies": []
+    },
+    "eng/archive/hws/hw 14.04.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 2010,
+      "exportedPath": "eng/archive/hws/hw-14.04.html",
+      "dependencies": []
+    },
+    "eng/archive/hws/hw 26.03.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 2019,
+      "exportedPath": "eng/archive/hws/hw-26.03.html",
+      "dependencies": []
+    },
+    "eng/archive/07.10.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1093,
+      "exportedPath": "eng/archive/07.10.html",
+      "dependencies": []
+    },
+    "eng/archive/13.05.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1062,
+      "exportedPath": "eng/archive/13.05.html",
+      "dependencies": []
+    },
+    "eng/archive/23.09.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 5726,
+      "exportedPath": "eng/archive/23.09.html",
+      "dependencies": []
+    },
+    "eng/archive/27.09.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 882,
+      "exportedPath": "eng/archive/27.09.html",
+      "dependencies": []
+    },
+    "eng/archive/30.09.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 537,
+      "exportedPath": "eng/archive/30.09.html",
+      "dependencies": []
+    },
+    "eng/archive/black and white.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 2469,
+      "exportedPath": "eng/archive/black-and-white.html",
+      "dependencies": []
+    },
+    "eng/archive/dune.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 5585,
+      "exportedPath": "eng/archive/dune.html",
+      "dependencies": []
+    },
+    "eng/archive/job application wb p37.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1819,
+      "exportedPath": "eng/archive/job-application-wb-p37.html",
+      "dependencies": []
+    },
+    "eng/archive/sassoon's poem.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1727,
+      "exportedPath": "eng/archive/sassoon's-poem.html",
+      "dependencies": []
+    },
+    "eng/archive/speaking p58.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1134,
+      "exportedPath": "eng/archive/speaking-p58.html",
+      "dependencies": []
+    },
+    "eng/archive/vocab+grammar.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 7957,
+      "exportedPath": "eng/archive/vocab+grammar.html",
+      "dependencies": []
+    },
+    "eng/archive/writing job.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1542,
+      "exportedPath": "eng/archive/writing-job.html",
+      "dependencies": []
+    },
+    "eng/RGN/RGN 1-2.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 7454,
+      "exportedPath": "eng/rgn/rgn-1-2.html",
+      "dependencies": []
+    },
+    "eng/RGN/RGN 3.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 7855,
+      "exportedPath": "eng/rgn/rgn-3.html",
+      "dependencies": []
+    },
+    "eng/RGN/RGN 4.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 4271,
+      "exportedPath": "eng/rgn/rgn-4.html",
+      "dependencies": []
+    },
+    "eng/RGN/RGN 5-6.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1478,
+      "exportedPath": "eng/rgn/rgn-5-6.html",
+      "dependencies": []
+    },
+    "eng/RGN/RGN 7-8.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 2792,
+      "exportedPath": "eng/rgn/rgn-7-8.html",
+      "dependencies": []
+    },
+    "eng/RGN/RGN 9.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 8127,
+      "exportedPath": "eng/rgn/rgn-9.html",
+      "dependencies": []
+    },
+    "eng/RGN/RGN 10.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 8171,
+      "exportedPath": "eng/rgn/rgn-10.html",
+      "dependencies": []
+    },
+    "eng/RGN/RGN 11-12.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 5548,
+      "exportedPath": "eng/rgn/rgn-11-12.html",
+      "dependencies": []
+    },
+    "eng/RGN/RGN 13.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 5652,
+      "exportedPath": "eng/rgn/rgn-13.html",
+      "dependencies": []
+    },
+    "eng/RGN/voc 4-6.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 5486,
+      "exportedPath": "eng/rgn/voc-4-6.html",
+      "dependencies": []
+    },
+    "eng/RGN/voc 7-8.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 0,
+      "exportedPath": "eng/rgn/voc-7-8.html",
+      "dependencies": []
+    },
+    "eng/15.11.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 447,
+      "exportedPath": "eng/15.11.html",
+      "dependencies": []
+    },
+    "eng/16.12.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1204,
+      "exportedPath": "eng/16.12.html",
+      "dependencies": []
+    },
+    "eng/18.11.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 409,
+      "exportedPath": "eng/18.11.html",
+      "dependencies": []
+    },
+    "eng/21.10.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1912,
+      "exportedPath": "eng/21.10.html",
+      "dependencies": []
+    },
+    "eng/media dependence prs.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1780,
+      "exportedPath": "eng/media-dependence-prs.html",
+      "dependencies": []
+    },
+    "eng/missfont.log": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 126,
+      "exportedPath": "eng/missfont.log",
+      "dependencies": []
+    },
+    "eng/proposal writing.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 2755,
+      "exportedPath": "eng/proposal-writing.html",
+      "dependencies": []
+    },
+    "eng/RGN voc tables.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 20601,
+      "exportedPath": "eng/rgn-voc-tables.html",
+      "dependencies": []
+    },
+    "eng/RGN voc tables.html": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 24544,
+      "exportedPath": "eng/rgn-voc-tables.html",
+      "dependencies": []
+    },
+    "eng/translations 9–11.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1567,
+      "exportedPath": "eng/translations-9–11.html",
+      "dependencies": []
+    },
+    "eng/vocab.docx": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 12569,
+      "exportedPath": "eng/vocab.docx",
+      "dependencies": []
+    },
+    "eng/vocab+grammar.tex": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 11114,
+      "exportedPath": "eng/vocab+grammar.tex",
+      "dependencies": []
+    },
+    "eng/wds.md": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1118,
+      "exportedPath": "eng/wds.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 17645,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 1983,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 131021,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 12922,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 579,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1734518105547,
+      "sourceSize": 4803,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
