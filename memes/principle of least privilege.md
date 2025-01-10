@@ -1,1 +1,0 @@
-(PoLP) = principle of minimal privelege (PoMP) = principle of least authority (PoLA)
